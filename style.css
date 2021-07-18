@@ -1,0 +1,77 @@
+* {
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+
+}
+
+.hero-section{
+     background: url("Project Pictures/header.jpg") center;
+    height: 100vh;
+    width: 100%;
+
+
+}
+
+.hero-wrap
+{
+    color:white;
+    height: inherit;
+  width: inherit;
+
+}
+.hero-wrap h1{
+    font-weight: bold;
+    font-size:50px;
+
+}
+
+.hero-wrap p
+{
+  font-size:18px;
+  font-weight: 500;
+  
+}
+
+.btn
+{
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+}
+
+.btn-primary{
+
+    background-color: #F05F44;
+    border-color: #F05F44;
+    
+
+}
+.btn-primary:hover{
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+}
+
+hr
+
+{ border-style: solid;
+    border-width: 2px;
+    border-color: #fff;
+    opacity:100%;
+    width:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
